@@ -22,7 +22,7 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-
 target
-.idea
-.devopsbuddy.iml
+.classpath
+.project
+.settings
