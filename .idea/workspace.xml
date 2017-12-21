@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list id="376f97ca-a51a-49f0-b1d5-32dd4713ccc4" name="Revert: Initial commit" comment="" />
-    <list default="true" id="55f220be-2263-4f66-8ff7-d01493b5ffc7" name="Default" comment="" />
+    <list default="true" id="55f220be-2263-4f66-8ff7-d01493b5ffc7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -336,7 +338,7 @@
       <workItem from="1513858349666" duration="340000" />
       <workItem from="1513858708088" duration="1023000" />
       <workItem from="1513860408232" duration="4564000" />
-      <workItem from="1513865241839" duration="3051000" />
+      <workItem from="1513865241839" duration="3309000" />
     </task>
     <task id="LOCAL-00001" summary="Added files to .">
       <created>1513854138485</created>
@@ -370,7 +372,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10884000" />
+    <option name="totallyTimeSpent" value="11142000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
